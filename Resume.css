@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+}
+.center{
+    padding-left: 50px;
+    margin: auto;
+    width: 32%;
+    padding: 10px;
+
+}
+.font-style-loki{
+    font-style: italic;
+}
+table{
+    
+    border: 2px ;
+    border-style: solid;
+    border-collapse: collapse;
+}
+td,th{
+    padding: 10px;
+    
+}
